@@ -17,7 +17,6 @@
 	
 	<body>
 		<P><center> Its free and easy to use </center></P>
-	</body>
 	
 	<center><form>
 	<table width="500">
@@ -40,9 +39,10 @@
 	</center></form>
 	
 	
-	</body>
-	<center><body>
+	
+	<center>
 		<img src=http://www.cybersecurityafrica.com/images/blog/ethical-hacking.jpg>
-	</center></body> 
+	</center>
+	</body> 
 	
 </html>
