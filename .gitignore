@@ -1,0 +1,48 @@
+<html>
+<body bgcolor="#000000">
+<font color="white">
+<nav>
+	<center>
+	<font size="6"><b>||<a href="/html/">Home Page</a> ||
+	<b><a href="/css/">News Page</a>||
+	<b><a href="/js/">Activity Page</a>||
+	<b><a href="/js/">Club Shop</a> ||
+	<b><a href="/js/">Sign-up</a>||</font></img>
+	</center>
+</nav>
+
+	<head>
+		<h1><center> Sign up </center></h1>
+	</head>
+	
+	<body>
+		<P><center> Its free and easy to use </center></P>
+	</body>
+	
+	<center><form>
+	<table width="500">
+	
+		<p>First name:<input type="text" size="20" maxlength="20"/><br></p>
+		<p>Last name :<input type="text" size="20"maxlength="20"/><br></p>
+		<p>Other name:<input type="text" size="20"maxlength="20"/><br></p>
+		<p>Date of birth:<input type="number"size="2"maxlength="2"/><input type="number"size="2"maxlength="2"/><input type="number"size="4"maxlength="4"/><br></p>
+		<p>religion    :<input type="text"size="20"maxlength="20"/><br></p>
+		<p>nationality:<input type="text"size="20"maxlength="20"/><br></p>
+		<p>gender:</p><p>Male:<input type="checkbox" Value="male"/><br>Female:<input type="checkbox" Value="male"/></p>
+		<p>email: <input type="text" size="30"/><br></p>
+		<p>Telephone number: <input type="number" size="11"maxlength="11"/><br></p>
+		<p>newletter:(by ticking this boxs you are allowing us to email you our monthly newsletter)<input type="radio"/><br></p>
+		<p>18+:(you must be over the age of 18 to sign up for this)<input type="radio"/><br></p>
+		
+		<input type="submit" value="submit form"/>
+		<input type="reset" value="reset form"/>
+		
+	</center></form>
+	
+	
+	</body>
+	<center><body>
+		<img src=http://www.cybersecurityafrica.com/images/blog/ethical-hacking.jpg>
+	</center></body> 
+	
+</html>
